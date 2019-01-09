@@ -15,7 +15,8 @@ public abstract class StringFormatter {
      * It receives a text and should return it formatted
      *
      * @param text
+     * @param limit 
      * @return
      */
-    public abstract String format(String text);
+    public abstract String format(String text, Integer limit, boolean justify);
 }
