@@ -8,7 +8,7 @@ no momento.
 Executar o programa Java que ficara esperando uma interação com o bot [@RCrawler](https://telegram.me/rcrawlerbot) no Telegram.
 Iniciar uma conversa com o bot e enviar o comando: 
 
-/nadaparafazer [lista de subreddits juntos separados por ';']
+/nadaparafazer [lista de subreddits separados por ';']
 
 ```
 ex: /nadaparafazer askreddit;worldnews;cats
